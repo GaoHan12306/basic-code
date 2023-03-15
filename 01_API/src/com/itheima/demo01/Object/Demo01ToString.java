@@ -31,6 +31,8 @@ public class Demo01ToString{
         Scanner sc = new Scanner(System.in);
         System.out.println(sc);//java.util.Scanner[delimiters=\p{javaWhitespace}+..  重写toString方法
 
+
+        //测试
         ArrayList<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(2);
